@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaalicia233
+- 👋 Hi, I’m alicia
 - 👀 I’m interested in swimming and boxing. New as a software developer and github.
 - 🌱 I’m currently learning computer science in college.
 
