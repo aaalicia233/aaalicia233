@@ -1,6 +1,7 @@
 - 👋 Hi, I’m alicia
-- 👀 I’m interested in swimming and boxing. New as a software developer and github.
-- 🌱 I’m currently learning computer science in college.
+- 👀 I'm CS student, aspiring full stack developer.
+- 🌱 Part-time swimmer and a newcomer to boxing.
+- Think, create, and build.
 
 
 <!---
