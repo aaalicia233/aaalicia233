@@ -1,6 +1,5 @@
 - 👋 Hi, I’m alicia
 - 👀 I'm CS student, aspiring full stack developer.
-- 🌱 Part-time swimmer and a newcomer to boxing.
 - ✨ Think, create, and build.
 
 
